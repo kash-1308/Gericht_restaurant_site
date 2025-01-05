@@ -4,6 +4,9 @@ In this project, my expertise in HTML5, Jaavascript,, and CSS3 was pivotal in de
 # Key features
 
 i) Used semantic HTML5 elemets like <\header>, <\nav>, <\section>, and <\footer> to strucure the website , ensuring that the content was logically organized and accessible for search engines and users.
+
 ii) Employed CSS3 media queries, to amke the website fully responsive, allowing it to adapt the different screen sizes.
+
 iii) Used Javascript to implement an interaction reservation system that ensures built in validation for user inputs, such as dates and email addresses.
+
 iV) Minified CSS and JAVASCRIPT files to ensure faster load times, enhancing website performance, especially on mobile devices.
