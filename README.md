@@ -27,7 +27,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 Builds the app for production to the `build` folder.\
 
 
-# My project overview
+# project Overview
 
 https://github.com/user-attachments/assets/63546c94-0177-404a-923a-7664d8f8c632
 
