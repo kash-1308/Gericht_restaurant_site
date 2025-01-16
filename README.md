@@ -13,18 +13,35 @@ iV) Minified CSS and JAVASCRIPT files to ensure faster load times, enhancing web
 
 # Getting Started with React App
 
+Make sure you have the following installed on your machine:
 
-In the project directory, you can run:
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
 
-### `npm start`
+**Cloning the Repository**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+```bash
+git clone https://github.com/kash-1308/Gericht_restaurant_site.git
+cd Gericht_restaurant_site
+```
 
+**Installation**
 
-### `npm run build`
+Install the project dependencies using npm:
 
-Builds the app for production to the `build` folder.\
+```bash
+npm install
+```
+
+**Running the Project**
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+
 
 
 # Project Overview
