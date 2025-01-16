@@ -43,9 +43,3 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
 
-
-# Project Overview
-
-https://github.com/user-attachments/assets/63546c94-0177-404a-923a-7664d8f8c632
-
-
